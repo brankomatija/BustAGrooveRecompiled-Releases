@@ -28,6 +28,10 @@ No PlayStation BIOS is required: the bundled OpenBIOS is MIT-licensed.
 - Online play through a room server
 - Extra mods: autoplay, random steps, pause menu, restored unused ATTACK2 move
 - Memory cards saved in the standard 128 KB `.mcd` format
+- Local 2-player: a second connected controller joins as Player 2
+
+The game boots straight in. To open the settings launcher (mods, controls,
+video), hold **L1** on the controller while it starts (**L** on Switch).
 
 ## Windows
 
